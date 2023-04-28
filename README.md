@@ -1,8 +1,8 @@
 ### Olá, eu sou a Kamily! Seja bem-vindo(a) ao meu perfil do GitHub
 
 - 📓 Cursando Analise e Desenvolvimento de Sistemas
-- 💼 Atualmente estou trabalhando como desenvolvedora web (PHP | Laravel)
-- 📝 Estou estudando Vue.js
+- 💼 Trabalhando como desenvolvedora web (PHP | Laravel)
+- 📝 Estudando Vue.js
 - 💡 Procurando aprimorar meus conhecimentos de Front-end
 
 ## 💻 Minha Stack
