@@ -2,7 +2,6 @@
 
 - 📓 Cursando Analise e Desenvolvimento de Sistemas
 - 💼 Trabalhando como desenvolvedora web (PHP | Laravel)
-- 📝 Estudando Vue.js
 - 💡 Procurando aprimorar meus conhecimentos de Front-end
 
 ## 💻 Minha Stack
