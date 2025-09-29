@@ -1,8 +1,6 @@
 ### Olá, eu sou a Kamily! Seja bem-vindo(a) ao meu perfil do GitHub
 
 - 📓 Cursando Analise e Desenvolvimento de Sistemas
-- 💼 Trabalhando como desenvolvedora web
-- 💡 Procurando aprimorar meus conhecimentos de Front-end
 
 ## 💻 Minha Stack
  Essas são algumas das tecnologias que uso no dia a dia
